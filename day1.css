@@ -23,6 +23,7 @@
 }
 .container{
     margin-left: 120px;
+    flex-wrap: wrap;
 }
 .cart{
      display: flex;
@@ -47,6 +48,7 @@
 .header{
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
 }
 .Search{
     display: flex;
