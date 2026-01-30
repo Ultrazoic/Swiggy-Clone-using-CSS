@@ -14,4 +14,4 @@ The project focuses on practicing website layout and styling.
 - HTML5
 - CSS3
 
-## 📂 Project Structure
+
